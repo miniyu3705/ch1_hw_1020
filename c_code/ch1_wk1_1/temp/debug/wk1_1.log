@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Insiders\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(533,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files\Microsoft Visual Studio\18\Insiders\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(534,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Main.c
+D:\MYFILES\Documents\HYC\北科\程式作業\ch1_wk_1020\c_code\ch1_wk1_1\source\Main.c(6,10): warning C4554: '|': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+  wk1_1.vcxproj -> D:\MYFILES\Documents\HYC\北科\程式作業\ch1_wk_1020\c_code\ch1_wk1_1\temp\debug\wk1_1.exe
