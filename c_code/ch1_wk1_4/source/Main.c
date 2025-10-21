@@ -1,22 +1,22 @@
 #include <stdio.h>
-int main() 
+int main()
 {
-    printf("H   H\n");
-    printf("H   H\n");
     printf("HHHHH\n");
-    printf("H   H\n");
-    printf("H   H\n\n");
+    printf("  H  \n");
+    printf("  H  \n");
+    printf("  H  \n");
+    printf("HHHHH\n\n");
 
-    printf("Y   Y\n");
-    printf(" Y Y \n");
-    printf("  Y  \n");
-    printf("  Y  \n");
-    printf("  Y  \n\n");
+    printf("    Y\n");
+    printf("   Y \n");
+    printf("YYY  \n");
+    printf("   Y \n");
+    printf("    Y\n\n");
 
-    printf(" CCCCC\n");
-    printf("C\n");
-    printf("C\n");
-    printf("C\n");
-    printf(" CCCCC\n\n");
+    printf(" CCC  \n");
+    printf("C   C\n");
+    printf("C   C\n");
+    printf("C   C\n");
+    printf("C   C\n\n");
     return 0;
 }
